@@ -3,7 +3,7 @@ datamapper_codeigniter
 
 Tutorial with a complete example usage orm datamapper in codeigniter
 
-## Tables for tutorial
+## Database for tutorial
 
 ```mysql
 CREATE DATABASE IF NOT EXISTS `orm_ci`;
@@ -115,3 +115,11 @@ CREATE TABLE IF NOT EXISTS `users` (
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 ```
+
+## Complete tutorial in spanish language
+
+* [Tutorial](http://uno-de-piera.com/datamapper-un-orm-para-codeigniter/)
+* 
+## Visit me
+
+* [Visit me](http://uno-de-piera.com)
